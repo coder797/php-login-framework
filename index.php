@@ -70,6 +70,5 @@
 
     </div>
 
-    <script src="../../assets/js/ie10-viewport-bug-workaround.js"></script>
   </body>
 </html>
