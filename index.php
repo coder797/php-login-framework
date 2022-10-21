@@ -65,7 +65,7 @@
       </div>
 
       <footer class="footer">
-        <p>&copy; Mario Font 2016</p>
+        <p>&copy; Hi Iam the footer</p>
       </footer>
 
     </div>
